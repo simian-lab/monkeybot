@@ -1,1 +1,9 @@
-["redis-brain.coffee", "shipit.coffee", "hubot-google-hangouts"]
+[
+  "redis-brain.coffee",
+  "shipit.coffee",
+  "devexcuse.coffee",
+  "futurama.coffee",
+  "howdoi.coffee",
+  "imdb.coffee",
+  "zombies.coffee"
+]
