@@ -16,6 +16,9 @@ apt-get install nodejs -y
 # Make sure we got git.
 apt-get install git -y
 
+# Get REDIS server
+apt-get install redis-server
+
 # Get the required stuff
 npm install -g hubot coffee-script
 
