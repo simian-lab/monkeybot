@@ -1,5 +1,6 @@
 [
   "hubot-heroku-keepalive",
   "hubot-codinglove",
-  "hubot-9gag"
+  "hubot-9gag",
+  "hubot-http-status"
 ]
