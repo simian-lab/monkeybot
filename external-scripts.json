@@ -3,5 +3,7 @@
   "hubot-codinglove",
   "hubot-9gag",
   "hubot-http-status",
-  "hubot-qr"
+  "hubot-qr",
+  "hubot-reaction",
+  "hubot-thank-you"
 ]
